@@ -1,11 +1,15 @@
 name: vis
+channels:
+  - nvidia
+  - conda-forge
+  - defaults
 dependencies:
   - python=3.8.5
   - pip
-  - cudatoolkit
+  - cudatoolkit=11.8
   - pytorch
-  - torchvision
   - pytorch-cuda=11.8
+  - torchvision
   - numpy
   - pip:
     - scikit-image
