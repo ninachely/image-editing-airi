@@ -1,6 +1,10 @@
-# image_editing_airi
+# Визуализация attention мап
 
-## Визуализация self-attention мап
+## Self-attention
+
+```git clone https://github.com/ninachely/image-editing-airi.git```
+
+```cd image-editing-airi```
 
 ```git clone https://github.com/castorini/daam.git```
 
