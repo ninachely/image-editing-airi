@@ -6,3 +6,4 @@
 2. ```cd image-editing-airi/```
 3. ```git clone https://github.com/castorini/daam.git```
 4. ```conda env create -f vis_env.yaml```
+5. Запуск ноутбука ```cross_attn_vis.ipynb```
