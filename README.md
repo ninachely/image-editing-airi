@@ -1,6 +1,6 @@
 # Визуализация attention мап
 
-## Self-attention
+## Cross-attention
 
 1. ```git clone https://github.com/ninachely/image-editing-airi.git```
 2. ```cd image-editing-airi/```
